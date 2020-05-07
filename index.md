@@ -7,6 +7,6 @@ Açık Uçlu Sorular Bölümü Ortaokul öğrencilerinin nicel sorulara verdiği
 Hijyen deyine aklınıza ne geliyor?
 Kişisel hijyen deyine aklınıza ne geliyor?
 Bir gün içerisinde kişisel hijyeninizi sağlamak için ne tür uygulamalar yapıyorsunuz? Oluşmaktadır.
-Kişisel Temizlik ve Hijyen AlıĢkanlıkları Ölçeğinin Pilot Uygulaması
+Kişisel Temizlik ve Hijyen Alışkanlıkları Ölçeğinin Pilot Uygulaması
 
 Pilot uygulamayla araştırma dâhilinde hazırlanan öğretim materyalinde araştırmacının tecrübe kazanması amaçlanmıştır. Araştırmacının esas uygulamasını gerçekleştirmesi için gerekli düzenlemelerinin yapılması ve materyallere son halinin verilmesi amacıyla da veri toplama aracı pilot araştırma olarak Kars ili Sarıkamış ve Selim İlçelerinde öğrenim görmekte olan 237 öğrenci üzerinde uygulanmıştır. Araştırmacının bunu yaptırmasındaki amaç kendisinin ve uygulamanın eksik ve zayıf yönlerini görmektir. Pilot uygulama dâhilinde karma tarama modelinin amacına hizmet ettiği sonucuna varılmıştır. Bir araştırmanın geçerlilik ve güvenirliği, o araştırmanın kabul edilebilirliğini ve inandırıcılığı açısından önemlidir (Göçer, 2013). Ölçekler bireylerin yetenek, beceri, edim, güdü ve tutum gibi belirli bir davranışını standart koşullarda ölçülmesini sağlayan sistemli bir yaklaşım olarak da ifade edilebilir. Bireylerin davranışlarını tahmin etmedeki başarı büyük ölçüde testin, geçerli ve güvenilir olmasına bağlıdır (Büyüköztürk, 2017). Ölçme sonuçlarının güvenilirliği, sonuçların geçerliliğini etkileyen ve onu sınırlandıran temel bir faktör olarak açıklanır.

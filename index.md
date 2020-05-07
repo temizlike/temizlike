@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Temizlike.com Ev Temizliği
+## Kişisel Temizlik ve Hijyen Alışkanlıkları Ölçeği
+Bu bölüm ortaokul öğrencilerinin temizlik ve hijyen alışkanlıklarını belirlemek için geliştirilmiştir. Bu kapsamda, öncelikli olarak konu ile ilgili literatür taraması gerçekleştirilerek benzer nitelikli araştırmalar tespit edilmiştir ([temizlike](https://www.temizlike.com/) Arat, 2013; Aydın, 1996; Bebiş, 1997; Balaban, 2011; Eraslan, 2009; Kahveci ve Demirtaş, 2012; Karadon, 2010; Karaoğlu ve Pehlivan, 1997; Kalıncı, 2006; Şimşek, 2012; Tartaç, 2007). Tespit edilen araştırmalardan hareketle 120 maddelik soru havuzu oluşturulmuştur. Oluşturulan maddeler iki fen eğitimi ve bir biyoloji uzmanın görüşüne sunulmuş ve sonunda 35 maddelik kişisel temizlik ve hijyen alışkanlıkları ölçeği geliştirilmiştir. Ölçekteki tüm maddeler olumlu yöndedir. Bu durumda her zaman seçeneğini işaretleyenler 3 puan, ara sıra seçeneğini işaretleyenler 2 puan ve hiçbir zaman seçeneğini işaretleyenler 1 puanla değerlendirilmiştir. (temizlike.com)
+Açık Uçlu Sorular Bölümü Ortaokul öğrencilerinin nicel sorulara verdiği cevapları ifade edebilme ve elde edilen verilerin birbirlerini destekleyip desteklemeyeceğini öğrenmek amacıyla 4 tane açık uçlu soru eklenmiştir. Sorular:
 
-You can use the [editor on GitHub](https://github.com/temizlike/temizlike/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Temizlik deyince aklınıza ne geliyor?
+Hijyen deyine aklınıza ne geliyor?
+Kişisel hijyen deyine aklınıza ne geliyor?
+Bir gün içerisinde kişisel hijyeninizi sağlamak için ne tür uygulamalar yapıyorsunuz? Oluşmaktadır.
+Kişisel Temizlik ve Hijyen AlıĢkanlıkları Ölçeğinin Pilot Uygulaması
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/temizlike/temizlike/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Pilot uygulamayla araştırma dâhilinde hazırlanan öğretim materyalinde araştırmacının tecrübe kazanması amaçlanmıştır. Araştırmacının esas uygulamasını gerçekleştirmesi için gerekli düzenlemelerinin yapılması ve materyallere son halinin verilmesi amacıyla da veri toplama aracı pilot araştırma olarak Kars ili Sarıkamış ve Selim İlçelerinde öğrenim görmekte olan 237 öğrenci üzerinde uygulanmıştır. Araştırmacının bunu yaptırmasındaki amaç kendisinin ve uygulamanın eksik ve zayıf yönlerini görmektir. Pilot uygulama dâhilinde karma tarama modelinin amacına hizmet ettiği sonucuna varılmıştır. Bir araştırmanın geçerlilik ve güvenirliği, o araştırmanın kabul edilebilirliğini ve inandırıcılığı açısından önemlidir (Göçer, 2013). Ölçekler bireylerin yetenek, beceri, edim, güdü ve tutum gibi belirli bir davranışını standart koşullarda ölçülmesini sağlayan sistemli bir yaklaşım olarak da ifade edilebilir. Bireylerin davranışlarını tahmin etmedeki başarı büyük ölçüde testin, geçerli ve güvenilir olmasına bağlıdır (Büyüköztürk, 2017). Ölçme sonuçlarının güvenilirliği, sonuçların geçerliliğini etkileyen ve onu sınırlandıran temel bir faktör olarak açıklanır.

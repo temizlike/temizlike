@@ -10,3 +10,15 @@ Bir gün içerisinde kişisel hijyeninizi sağlamak için ne tür uygulamalar ya
 Kişisel Temizlik ve Hijyen Alışkanlıkları Ölçeğinin Pilot Uygulaması
 
 Pilot uygulamayla araştırma dâhilinde hazırlanan öğretim materyalinde araştırmacının tecrübe kazanması amaçlanmıştır. Araştırmacının esas uygulamasını gerçekleştirmesi için gerekli düzenlemelerinin yapılması ve materyallere son halinin verilmesi amacıyla da veri toplama aracı pilot araştırma olarak Kars ili Sarıkamış ve Selim İlçelerinde öğrenim görmekte olan 237 öğrenci üzerinde uygulanmıştır. Araştırmacının bunu yaptırmasındaki amaç kendisinin ve uygulamanın eksik ve zayıf yönlerini görmektir. Pilot uygulama dâhilinde karma tarama modelinin amacına hizmet ettiği sonucuna varılmıştır. Bir araştırmanın geçerlilik ve güvenirliği, o araştırmanın kabul edilebilirliğini ve inandırıcılığı açısından önemlidir (Göçer, 2013). Ölçekler bireylerin yetenek, beceri, edim, güdü ve tutum gibi belirli bir davranışını standart koşullarda ölçülmesini sağlayan sistemli bir yaklaşım olarak da ifade edilebilir. Bireylerin davranışlarını tahmin etmedeki başarı büyük ölçüde testin, geçerli ve güvenilir olmasına bağlıdır (Büyüköztürk, 2017). Ölçme sonuçlarının güvenilirliği, sonuçların geçerliliğini etkileyen ve onu sınırlandıran temel bir faktör olarak açıklanır.
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+ <meta name="google-site-verification" content="-tSCatf3CBzWUBpRAyLaQZtDc1DhbbXptXS3DF5atD0" />
+</head>

@@ -7,4 +7,4 @@ Eyüp İstanbul ilinde böcek ilaçlama en başta da sağlık açısından olmaz
 
 ## Eyüp böcek ilaçlama fiyatları
 
-İstanbul , [Eyüp böcek ilaçlama](https://www.temizlike.com/eyup/) fiyatları için sitemizde hangi alanda temizlik hizmeti alacaksanız personelimizin referanslarını inceleyebilir ve ona göre karar verebilirsiniz. Metrekara fiyatları haşerelere karşı 50 tl den 250 tl ye kadar çıkmaktadır.
+İstanbul [Eyüp böcek ilaçlama](https://www.temizlike.com/eyup/) fiyatları için sitemizde hangi alanda temizlik hizmeti alacaksanız personelimizin referanslarını inceleyebilir ve ona göre karar verebilirsiniz. Metrekara fiyatları haşerelere karşı 50 tl den 250 tl ye kadar çıkmaktadır.

@@ -3,7 +3,7 @@
 
 ## Afyon İnşaat Sonrası Temizlik Fiyatları temizlike.com
 
-Bu www.temizlike.com sitemizde bulunan temizlik ustalarından yardım almak sizler için uygun olacaktır. Afyon İnşaat Sonrası Temizlik (ev, ofis, fabrika vb.) gibi temizlik işlerinde sitemizden yararlanabilirsiniz.
+Bu temizlike.com sitemizde bulunan temizlik ustalarından yardım almak sizler için uygun olacaktır. Afyon İnşaat Sonrası Temizlik (ev, ofis, fabrika vb.) gibi temizlik işlerinde sitemizden yararlanabilirsiniz.
 
 ## Afyon İnşaat Temizliği Fiyatları
 

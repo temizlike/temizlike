@@ -6,5 +6,4 @@ Aksaray ilinde haşere ilaçlama en başta da sağlık açısından olmazsa olma
 Ofis ve iş yerleri dışından ki vaktimizi meskenlerimizde harcarız. Konutlarında hayatlarını idame ettiren kişi miktarını gözeterek yaşam alanlarımız hemen temizlenmelidir. Aksaraylılar ne kadar ayrıntılı haşere ilaçlama veya iki gün içerisinde tozlandığını herkes tarafından bilinmektedir. Bu temizlike.com sitemizde bulunan temizlik ustalarından yardım almak herkes için iyi olacaktır. Aksaray haşere ilaçlama (işyeri, hastane, pastane, ekmek fırını gibi) gibi temizlik işlerinde sitemizden yararlanabilirsiniz.
 
 ## Aksaray haşere ilaçlama fiyatları
-
-Aksaray haşere ilaçlama fiyatları için temizlike.com adresimizde istediğiniz sektörden temizlik hizmeti satın almak istiyorsanız çalışanlarımızın bilgilendirme kartlarını okuyup bir sonuca varabilirsiniz. Metrekara fiyatları haşerelere karşı 50 tl den 250 tl ye kadar çıkmaktadır.
+[Aksaray haşere ilaçlama](https://www.temizlike.com/aksaray/) fiyatları için temizlike.com adresimizde istediğiniz sektörden temizlik hizmeti satın almak istiyorsanız çalışanlarımızın bilgilendirme kartlarını okuyup bir sonuca varabilirsiniz. Metrekara fiyatları haşerelere karşı 50 tl den 250 tl ye kadar çıkmaktadır.
